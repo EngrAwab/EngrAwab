@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Muhammad Awab 👋
 
 I'm a computer engineer with a passion for robotics and computer vision. My goal is to become a robotic vision expert, leveraging my skills to create innovative solutions.
 
@@ -7,6 +7,12 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 - **Programming Languages:** Python, C++
 - **Frameworks & Libraries:** OpenCV, TensorFlow, PyTorch
 - **Tools & Platforms:** Raspberry Pi, Jetson Nano, Arduino
+
+## 🛠️ Hardware I've Worked With
+
+- **Raspberry Pi:** Implemented projects for edge computing and IoT applications.
+- **Jetson Nano:** Explored deep learning and computer vision on Nvidia's powerful embedded platform.
+- **Arduino:** Developed projects for robotics and automation using Arduino microcontrollers.
 
 ## 🚀 Projects
 
