@@ -47,7 +47,7 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 
 ## 💬 Let's Connect
 
-[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/YourUsername) [GitHub](https://github.com/YourUsername)
+[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/EngrAwab) [GitHub](https://github.com/EngrAwab)
 
 [![LinkedIn](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png)](https://www.linkedin.com/in/muhammad-awab-younas-27bb50230/) [LinkedIn](https://www.linkedin.com/in/muhammad-awab-younas-27bb50230/)
 
