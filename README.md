@@ -45,8 +45,8 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 
 ## 💬 Let's Connect
 
-- GitHub: [Your GitHub Username](https://github.com/YourUsername)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+*/- GitHub: [Your GitHub Username](https://github.com/YourUsername)*/
+- LinkedIn: [Muhammad Awab Younas](https://www.linkedin.com/in/muhammad-awab-younas-27bb50230/)
 - Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
 
 Feel free to reach out! I'm always open to interesting conversations and collaboration.
