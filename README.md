@@ -20,6 +20,19 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 - **WTGAHRS2 GPS:** Worked with for accurate GPS positioning in projects.
 - **Dorna Robotic Arm:** Implemented for robotic automation applications.
 
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-3B+-orange?logo=Raspberry-Pi)
+![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-2GB-green?logo=Nvidia)
+![Arduino](https://img.shields.io/badge/Arduino-Uno-blue?logo=Arduino)
+![OAK-D](https://img.shields.io/badge/OAK--D-Depth--AI-yellow?logo=OpenCV)
+![8051 Microcontroller](https://img.shields.io/badge/8051_Microcontroller-Embedded-red?logo=Microchip)
+![3D Printer](https://img.shields.io/badge/3D_Printer-Assembly-white?logo=Prusa)
+![ESP32-CAM](https://img.shields.io/badge/ESP32_CAM-IoT-blueviolet?logo=Espressif)
+![WTGAHRS2 GPS](https://img.shields.io/badge/WTGAHRS2_GPS-GPS-brightgreen?logo=Adafruit)
+![Dorna Robotic Arm](https://img.shields.io/badge/Dorna_Robotic_Arm-Automation-lightgrey?logo=Robot)
+
+
+
 ## 🚀 Projects
 
 - [Number Plate Recognition on the Edge](Link to Project): I recently solved the challenge of deploying a number plate recognition system on the edge. This allows organizations to use affordable hardware and deploy in remote areas with limited or slow internet connectivity.
