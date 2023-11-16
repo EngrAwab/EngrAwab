@@ -13,6 +13,12 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 - **Raspberry Pi:** Implemented projects for edge computing and IoT applications.
 - **Jetson Nano:** Explored deep learning and computer vision on Nvidia's powerful embedded platform.
 - **Arduino:** Developed projects for robotics and automation using Arduino microcontrollers.
+- **OAK-D:** Utilized for depth perception and AI vision applications.
+- **8051 Microcontroller:** Applied in various embedded systems projects.
+- **3D Printer:** Involved in the assembly and optimization of 3D printing projects.
+- **ESP32-CAM:** Integrated for IoT projects with camera functionality.
+- **WTGAHRS2 GPS:** Worked with for accurate GPS positioning in projects.
+- **Dorna Robotic Arm:** Implemented for robotic automation applications.
 
 ## 🚀 Projects
 
