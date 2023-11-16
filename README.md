@@ -21,7 +21,7 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 - **Dorna Robotic Arm:** Implemented for robotic automation applications.
 
 
-<img src="https://www.nvidia.com/content/dam/en-zz/Solutions/intelligent-machines/jetson-nano/education-projects/nvidia-jetson-nano-og-100_.jpg" height="150" width="285"/><img src="https://www.zdnet.com/a/img/resize/2f3709d5d1474a5d20d535a9cf6174198a2368d1/2021/06/11/a419ab3e-428b-40fa-b554-02a18831fce3/raspberry-pi-4-model-b-header.jpg?auto=webp&fit=crop&height=675&width=1200" height="150" width="285"/><img src="https://www.mybotshop.de/media/image/product/5263/lg/luxonis-depthai-oak-d-lux-d.jpg" height="200" width="150"/>
+<img src="https://www.nvidia.com/content/dam/en-zz/Solutions/intelligent-machines/jetson-nano/education-projects/nvidia-jetson-nano-og-100_.jpg" height="150" width="285"/><img src="https://www.zdnet.com/a/img/resize/2f3709d5d1474a5d20d535a9cf6174198a2368d1/2021/06/11/a419ab3e-428b-40fa-b554-02a18831fce3/raspberry-pi-4-model-b-header.jpg?auto=webp&fit=crop&height=675&width=1200" height="150" width="285"/><img src="https://www.mybotshop.de/media/image/product/5263/lg/luxonis-depthai-oak-d-lux-d.jpg" height="200" width="180"/>
 
 ![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-2GB-green?logo=Nvidia)
 ![Arduino](https://img.shields.io/badge/Arduino-Uno-blue?logo=Arduino)
