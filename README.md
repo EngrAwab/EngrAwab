@@ -50,10 +50,11 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 */- GitHub: [Your GitHub Username](https://github.com/YourUsername)*/-->
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?style=for-the-badge&logo=github)](https://github.com/YourUsername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-awab-younas-27bb50230/)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Profile-blueviolet?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/yourusername)
-[![Upwork](https://img.shields.io/badge/Upwork-Profile-brightgreen?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancer/yourusername)
+
+[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/YourUsername)
+[![LinkedIn](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png)](https://www.linkedin.com/in/yourprofile/)
+[![Fiverr](https://img.icons8.com/ios-glyphs/30/000000/fiverr.png)](https://www.fiverr.com/yourusername)
+[![Upwork](https://img.icons8.com/ios-glyphs/30/000000/upwork.png)](https://www.upwork.com/freelancer/yourusername)
 Feel free to reach out! I'm always open to interesting conversations and collaboration.
 
 <!--
