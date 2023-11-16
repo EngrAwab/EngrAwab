@@ -21,7 +21,7 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 - **Dorna Robotic Arm:** Implemented for robotic automation applications.
 
 
-<img src="https://www.nvidia.com/content/dam/en-zz/Solutions/intelligent-machines/jetson-nano/education-projects/nvidia-jetson-nano-og-100_.jpg" height="200" width="100"/>
+<img src="https://www.nvidia.com/content/dam/en-zz/Solutions/intelligent-machines/jetson-nano/education-projects/nvidia-jetson-nano-og-100_.jpg" height="200" width="50"/>
 
 ![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-2GB-green?logo=Nvidia)
 ![Arduino](https://img.shields.io/badge/Arduino-Uno-blue?logo=Arduino)
