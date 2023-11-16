@@ -1,3 +1,5 @@
+![Jetson Nano](https://media.licdn.com/dms/image/D4D16AQFUJP7Ee4UnYw/profile-displaybackgroundimage-shrink_350_1400/0/1696527459085?e=1705536000&v=beta&t=6kAeSNGy_PcHnaX7DiJ4wJ_NVUcjQrVqr1kypj8ezWw)
+
 # Hello, I'm Muhammad Awab 👋
 
 I'm a computer engineer with a passion for robotics and computer vision. My goal is to become a robotic vision expert, leveraging my skills to create innovative solutions.
