@@ -53,7 +53,7 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 
 [![Fiverr](https://img.icons8.com/ios-glyphs/30/000000/fiverr.png)](https://www.fiverr.com/yourusername) [Fiverr](https://www.fiverr.com/yourusername)
 
-[![Upwork](https://w7.pngwing.com/pngs/744/960/png-transparent-upwork-computer-icons-freelancer-others.png)](https://www.upwork.com/freelancer/yourusername) [Upwork](https://www.upwork.com/freelancer/yourusername)
+[![Upwork](https://img.icons8.com/dusk/30/000000/upwork.png)](https://www.upwork.com/freelancer/yourusername) [Upwork](https://www.upwork.com/freelancer/yourusername)
 
 Feel free to reach out! I'm always open to interesting conversations and collaboration.
 
