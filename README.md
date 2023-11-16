@@ -34,23 +34,26 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 ![WTGAHRS2 GPS](https://img.shields.io/badge/WTGAHRS2_GPS-GPS-brightgreen?logo=Adafruit)
 ![Dorna Robotic Arm](https://img.shields.io/badge/Dorna_Robotic_Arm-Automation-lightgrey?logo=Robot)
 
-
+<!--
 
 ## 🚀 Projects
 
 - [Number Plate Recognition on the Edge](Link to Project): I recently solved the challenge of deploying a number plate recognition system on the edge. This allows organizations to use affordable hardware and deploy in remote areas with limited or slow internet connectivity.
-
+-->
 ## 🌱 I’m currently learning
 
 - Advanced computer vision techniques
 - Robotics and automation
 
 ## 💬 Let's Connect
+<!--    
+*/- GitHub: [Your GitHub Username](https://github.com/YourUsername)*/-->
 
-*/- GitHub: [Your GitHub Username](https://github.com/YourUsername)*/
-- LinkedIn: [Muhammad Awab Younas](https://www.linkedin.com/in/muhammad-awab-younas-27bb50230/)
-- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?style=for-the-badge&logo=github)](https://github.com/YourUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-awab-younas-27bb50230/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Profile-blueviolet?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/yourusername)
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-brightgreen?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancer/yourusername)
 Feel free to reach out! I'm always open to interesting conversations and collaboration.
 
 <!--
