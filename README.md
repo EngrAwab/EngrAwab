@@ -55,7 +55,7 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 
 
 
-Feel free to reach out! I'm always open to interesting conversations and collaboration.
+Feel free to reach out! I'm always open to interesting conversations and collaboration...
 
 <!--
 Here, you can add any additional sections or information you find relevant. For example, you can include your education, work experience, or any certifications you have earned.
