@@ -50,7 +50,7 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 ## 🔧 Technologies & Tools
 
 - **Programming Languages:** 
-    <p align="center">
+    <p align="left">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="C Logo" width="100" height="100">                                           <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="100" height="100">                                           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C Logo" width="100" height="100">
 </p>
 - **Frameworks & Libraries:**
