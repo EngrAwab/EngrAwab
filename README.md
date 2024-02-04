@@ -1,4 +1,4 @@
-![Jetson Nano](https://media.licdn.com/dms/image/D4D16AQFUJP7Ee4UnYw/profile-displaybackgroundimage-shrink_350_1400/0/1696527459085?e=1705536000&v=beta&t=6kAeSNGy_PcHnaX7DiJ4wJ_NVUcjQrVqr1kypj8ezWw)
+![MYPROFILE](https://media.licdn.com/dms/image/D4D16AQFUJP7Ee4UnYw/profile-displaybackgroundimage-shrink_350_1400/0/1696527459085?e=1712793600&v=beta&t=q3iKvY5t7e6oiRKSLAz0JY9qL3g6-4BwzQyZLyjAQn0)
 
 # Hello, I'm Muhammad Awab 👋
 
@@ -8,20 +8,17 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 
 - **Programming Languages:** Python, C++
 - **Frameworks & Libraries:** OpenCV, TensorFlow, PyTorch
-- **Tools & Platforms:** Raspberry Pi, Jetson Nano, Arduino
 
 ## 🛠️ Hardware I've Worked With
 
-- **Raspberry Pi:** Implemented projects for edge computing and IoT applications.
-- **Jetson Nano:** Explored deep learning and computer vision on Nvidia's powerful embedded platform.
+- **Raspberry Pi:** Implemented projects for edge computing and IoT applications in Pi02W ,Pi4 Pi5.
+- **Jetson Nano Developer Kit:** Explored deep learning and computer vision on Nvidia's powerful embedded platform.
 - **Arduino:** Developed projects for robotics and automation using Arduino microcontrollers.
 - **OAK-D:** Utilized for depth perception and AI vision applications.
 - **8051 Microcontroller:** Applied in various embedded systems projects.
-- **3D Printer:** Involved in the assembly and optimization of 3D printing projects.
+- **3D Printer:** Involved in the assembly and optimization of 3D printers.
 - **ESP32-CAM:** Integrated for IoT projects with camera functionality.
-- **WTGAHRS2 GPS:** Worked with for accurate GPS positioning in projects.
-- **Dorna Robotic Arm:** Implemented for robotic automation applications.
-
+- **WTGAHRS2 GPS:** Worked on indutrial grade WTGAHRS2GPS to create anomalies  map of railway track.
 
 <img src="https://d29g4g2dyqv443.cloudfront.net/sites/default/files/akamai/embedded/images/jetsonNano/JetsonNano-DevKit_Front-Top_Right_trimmed.jpg" height="150" /><img src="https://www.zdnet.com/a/img/resize/2f3709d5d1474a5d20d535a9cf6174198a2368d1/2021/06/11/a419ab3e-428b-40fa-b554-02a18831fce3/raspberry-pi-4-model-b-header.jpg?auto=webp&fit=crop&height=675&width=1200" height="150" width="285"/><img src="https://www.mybotshop.de/media/image/product/5263/lg/luxonis-depthai-oak-d-lux-d.jpg" height="200" width="180"/>
 
@@ -40,6 +37,19 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 
 - [Number Plate Recognition on the Edge](Link to Project): I recently solved the challenge of deploying a number plate recognition system on the edge. This allows organizations to use affordable hardware and deploy in remote areas with limited or slow internet connectivity.
 -->
+## 🎓 Certifications 
+- [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/account/accomplishments/certificate/BDT3FFYCDZLH)
+- [Introduction to Computer Vision and Image Processing](https://www.coursera.org/account/accomplishments/certificate/MAM4CTLPAJBZ)
+- [Python Data Structures
+](https://www.coursera.org/account/accomplishments/certificate/6LUULDWYFPMQ)
+- [Neural Networks and Deep Learning
+](https://www.coursera.org/account/accomplishments/certificate/XRHX4N7N6QV2)
+## 🏆 Achievements
+- [Came 1st in Popular Vote International OpenCV AI Competition 2023](https://www.hackster.io/contests/opencv-ai-competition-2023#winners)
+- Got 1st position in the Industrial and Creative Activity Term (ICAT) in department of NUTECH ,Paksitan.
+- Got 2nd Position in UET Taxila, Paksitan in AI Projects Competition.
+- Won OAK-D Camera in Transatlantic AI hackathon.
+
 ## 🌱 I’m currently learning
 
 - Advanced computer vision techniques
