@@ -72,11 +72,11 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 
 [![Fiverr](https://img.icons8.com/ios-glyphs/30/000000/fiverr.png)](https://www.fiverr.com/saithawab?) [Fiverr](https://www.fiverr.com/saithawab?)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-awab&show_icons=true&locale=en&layout=compact" alt="muhammad-awab" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EngrAwab&show_icons=true&locale=en&layout=compact" alt="muhammad-awab" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-awab&show_icons=true&locale=en" alt="muhammad-awab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EngrAwab&show_icons=true&locale=en" alt="muhammad-awab" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-awab&" alt="muhammad-awab" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EngrAwab&" alt="muhammad-awab" /></p>
 
 Feel free to reach out! I'm always open to interesting conversations and collaboration...
 
