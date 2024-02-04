@@ -51,10 +51,11 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 
 - **Programming Languages:** 
 
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="C Logo" width="100" height="100">       <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="100" height="100">            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C Logo" width="100" height="100">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="C Logo" width="100" height="100">                                           <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="100" height="100">                                           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C Logo" width="100" height="100">
 
 - **Frameworks & Libraries:**
-<img src="https://https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/800px-OpenCV_Logo_with_text_svg_version.svg.png="100"><img src="="100">
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/800px-OpenCV_Logo_with_text_svg_version.svg.png" alt="C Logo" width="100" height="100">                                           <img src="https://editor.analyticsvidhya.com/uploads/339361_iDQvKoz7gGHc6YXqvqWWZQ.png" alt="C Logo" width="100" height="100">                                           <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftheaveragecoder.medium.com%2Ftraining-and-testing-a-basic-neural-network-using-pytorch-4010300fda45&psig=AOvVaw0wjQSbL4NG4XMhpB1xrdmF&ust=1707146950447000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDZ8Y6AkoQDFQAAAAAdAAAAABAI" alt="C Logo" width="100" height="100">                                           <img src="https://community.ultralytics.com/uploads/default/original/1X/4799424d80923bbd57dd236fb8489bc26dac4f67.png" alt="C Logo" width="100" height="100">                                           <img src="https://media.licdn.com/dms/image/D5612AQFodCHsEIh_Iw/article-cover_image-shrink_720_1280/0/1688365480015?e=2147483647&v=beta&t=J2Nft_aci4LYmmu0yzNrLQpiFTMlKPOkxg7RjNTjsqY" alt="C Logo" width="100" height="100">
 ## 🌱 I’m currently learning
 
 - Advanced computer vision techniques
