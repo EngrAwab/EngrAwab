@@ -59,9 +59,7 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
     <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/800px-OpenCV_Logo_with_text_svg_version.svg.png" alt="C Logo" width="100" height="100">                            
         
-<img src="https://editor.analyticsvidhya.com/uploads/339361_iDQvKoz7gGHc6YXqvqWWZQ.png" alt="C Logo" width="100" height="100">                                           
-<img src="https://miro.medium.com/v2/resize:fit:691/1*VSQ0XEywxSgZBwW05GsZtw.png" alt="C Logo" width="100" height="100">         
-<img src="https://community.ultralytics.com/uploads/default/original/1X/4799424d80923bbd57dd236fb8489bc26dac4f67.png" alt="C Logo" width="100" height="100">                               <img src="https://media.licdn.com/dms/image/D5612AQFodCHsEIh_Iw/article-cover_image-shrink_720_1280/0/1688365480015?e=2147483647&v=beta&t=J2Nft_aci4LYmmu0yzNrLQpiFTMlKPOkxg7RjNTjsqY" alt="C Logo" width="100" height="100">
+<img src="https://editor.analyticsvidhya.com/uploads/339361_iDQvKoz7gGHc6YXqvqWWZQ.png" alt="C Logo" width="100" height="100">                                           <img src="https://miro.medium.com/v2/resize:fit:691/1*VSQ0XEywxSgZBwW05GsZtw.png" alt="C Logo" width="100" height="100">         <img src="https://community.ultralytics.com/uploads/default/original/1X/4799424d80923bbd57dd236fb8489bc26dac4f67.png" alt="C Logo" width="100" height="100">                               <img src="https://public.roboflow.com/images/logo.png" alt="C Logo" width="100" height="100">
     </p>
 ## 🌱 I’m currently learning
 
