@@ -4,10 +4,7 @@
 
 I'm a computer engineer with a passion for robotics and computer vision. My goal is to become a robotic vision expert, leveraging my skills to create innovative solutions.
 
-## 🔧 Technologies & Tools
 
-- **Programming Languages:** Python, C++
-- **Frameworks & Libraries:** OpenCV, TensorFlow, PyTorch
 
 ## 🛠️ Hardware I've Worked With
 
@@ -50,6 +47,13 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 - Got 2nd Position in UET Taxila, Paksitan in AI Projects Competition.
 - Won OAK-D Camera in Transatlantic AI hackathon.
 
+## 🔧 Technologies & Tools
+
+- **Programming Languages:** 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="C Logo" width="100" height="100"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="100" height="100"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C Logo" width="100" height="100">
+
+- **Frameworks & Libraries:**
+<img src="https://https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/800px-OpenCV_Logo_with_text_svg_version.svg.png="100"><img src="="100">
 ## 🌱 I’m currently learning
 
 - Advanced computer vision techniques
