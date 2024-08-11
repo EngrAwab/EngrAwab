@@ -6,27 +6,11 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 
 
 
-## 🛠️ Hardware I've Worked With
+## 🛠️ AI Hardware I've Worked With
+![Hardware](https://github.com/EngrAwab/EngrAwab/blob/main/img/AI_hardware.png)
 
-- **Raspberry Pi:** Implemented projects for edge computing and IoT applications in Pi02W ,Pi4 Pi5.
-- **Jetson Nano Developer Kit:** Explored deep learning and computer vision on Nvidia's powerful embedded platform.
-- **Arduino:** Developed projects for robotics and automation using Arduino microcontrollers.
-- **OAK-D:** Utilized for depth perception and AI vision applications.
-- **8051 Microcontroller:** Applied in various embedded systems projects.
-- **3D Printer:** Involved in the assembly and optimization of 3D printers.
-- **ESP32-CAM:** Integrated for IoT projects with camera functionality.
-- **WTGAHRS2 GPS:** Worked on indutrial grade WTGAHRS2GPS to create anomalies  map of railway track.
-
-<img src="https://d29g4g2dyqv443.cloudfront.net/sites/default/files/akamai/embedded/images/jetsonNano/JetsonNano-DevKit_Front-Top_Right_trimmed.jpg" height="150" /><img src="https://www.zdnet.com/a/img/resize/2f3709d5d1474a5d20d535a9cf6174198a2368d1/2021/06/11/a419ab3e-428b-40fa-b554-02a18831fce3/raspberry-pi-4-model-b-header.jpg?auto=webp&fit=crop&height=675&width=1200" height="150" width="285"/><img src="https://www.mybotshop.de/media/image/product/5263/lg/luxonis-depthai-oak-d-lux-d.jpg" height="200" width="180"/>
-
-![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-2GB-green?logo=Nvidia)
-![Arduino](https://img.shields.io/badge/Arduino-Uno-blue?logo=Arduino)
-![OAK-D](https://img.shields.io/badge/OAK--D-Depth--AI-yellow?logo=OpenCV)
-![8051 Microcontroller](https://img.shields.io/badge/8051_Microcontroller-Embedded-red?logo=Microchip)
-![3D Printer](https://img.shields.io/badge/3D_Printer-Assembly-white?logo=Prusa)
-![ESP32-CAM](https://img.shields.io/badge/ESP32_CAM-IoT-blueviolet?logo=Espressif)
-![WTGAHRS2 GPS](https://img.shields.io/badge/WTGAHRS2_GPS-GPS-brightgreen?logo=Adafruit)
-![Dorna Robotic Arm](https://img.shields.io/badge/Dorna_Robotic_Arm-Automation-lightgrey?logo=Robot)
+## 🔧 My Software Stack & Tools
+![Software](https://github.com/EngrAwab/EngrAwab/blob/main/img/AI_Software.png)
 
 <!--
 
@@ -42,23 +26,13 @@ I'm a computer engineer with a passion for robotics and computer vision. My goal
 - [Neural Networks and Deep Learning
 ](https://www.coursera.org/account/accomplishments/certificate/XRHX4N7N6QV2)
 ## 🏆 Achievements
+![OpenCV](https://github.com/EngrAwab/EngrAwab/blob/main/img/Certi_img.png)
+
 - [Came 1st in Popular Vote International OpenCV AI Competition 2023](https://www.hackster.io/contests/opencv-ai-competition-2023#winners)
 - Got 1st position in the Industrial and Creative Activity Term (ICAT) in department of NUTECH ,Paksitan.
 - Got 2nd Position in UET Taxila, Paksitan in AI Projects Competition.
 - Won OAK-D Camera in Transatlantic AI hackathon.
 
-## 🔧 Technologies & Tools
-
-- **Programming Languages:** 
-    <p align="left">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="C Logo" width="100" height="100">                                           <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="100" height="100">                                           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C Logo" width="100" height="100">
-</p>
-
-- **Frameworks & Libraries:**
-
-    <p align="left">
-                           <img src="https://editor.analyticsvidhya.com/uploads/339361_iDQvKoz7gGHc6YXqvqWWZQ.png" alt="C Logo" width="100" height="100">                                           <img src="https://miro.medium.com/v2/resize:fit:691/1*VSQ0XEywxSgZBwW05GsZtw.png" alt="C Logo" width="100" height="100">         <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/22606/images/61ae8d7-6831-7f5c-8b52-01d30ba74ffc_og-ultralytics.jpeg" alt="C Logo" width="100" height="100">                               <img src="https://i.imgur.com/8nttDXc.png" alt="C Logo" width="100" height="100">                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/800px-OpenCV_Logo_with_text_svg_version.svg.png" alt="C Logo" width="100" height="100"> 
-    </p>
 ## 🌱 I’m currently learning
 
 - Advanced computer vision techniques
